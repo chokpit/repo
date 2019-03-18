@@ -3,4 +3,4 @@ def clac_total(a,b):
 
 def calc_multiply(a,b):
     return a*b
-print('2321312323')
+print('233213212dd323')
