@@ -3,5 +3,5 @@ def clac_total(a,b):
 
 def calc_multiply(a,b):
     return a*b
-print('13212tgdsadsa52dsa3')
+print('1321dsa2tgdsadsa52dsa3')
 
